@@ -9,7 +9,9 @@ class Input extends Component {
     text: null
   }
 
-  onChangeText = text => this.setState({ text: text });
+  onChangeText = text => {
+    this.setState({ text: text });
+  }
 
   onSubmitEditing = () => {
     this.props.dispatch(
