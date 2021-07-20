@@ -14,7 +14,7 @@
     "firebase": "^7.0.0",
     "moment": "^2.24.0",
     "react": "16.9.0",
-    "react-native": "0.61.1",
+    "react-native": "0.62.3",
     "react-native-device-info": "^3.1.4",
     "react-native-fcm": "^16.2.4",
     "react-native-keyboard-aware-scroll-view": "^0.9.1",
