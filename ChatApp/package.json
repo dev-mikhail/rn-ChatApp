@@ -12,7 +12,7 @@
   "dependencies": {
     "@shoutem/ui": "^1.0.1",
     "firebase": "^7.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "react": "16.9.0",
     "react-native": "0.61.1",
     "react-native-device-info": "^3.1.4",
